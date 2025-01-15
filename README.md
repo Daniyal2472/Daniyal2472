@@ -1,4 +1,3 @@
-![Uploading profile pic.jpeg…]()
 # 👋 Hi, I’m Daniyal
 - 🌐 I’m a passionate web developer, specializing in back-end coding.
 - 🚀 Currently expanding my skills in Flutter and the MERN Stack.
